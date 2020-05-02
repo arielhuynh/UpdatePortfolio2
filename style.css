@@ -88,3 +88,7 @@ a {
 .col-lg-6 {
     font-size: 30px;
 }
+
+.card-body {
+    text-align: center;
+}
